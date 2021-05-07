@@ -1,5 +1,5 @@
 # Habit-tracker  
-## 프로젝트 설명  
+## 😀 프로젝트 설명  
 
 ![habit1](https://user-images.githubusercontent.com/68464784/117461497-967b2d00-af88-11eb-846b-6f923d368334.png)
 #### 해빗 트래커의 첫 화면  
@@ -26,13 +26,13 @@
 #### 각각의 해빗을 삭제 버튼을 눌러서 삭제할 수 있다  
 #
 
-## 배운점
+## 🙋‍♀️ 배운점
 #### · 리액트 기본 개념 이해 (JSX, State, Props, Class Component, Function Component)
 #### · 추가 개념 이해 (Pure Component, LifeCycle, React Hook, memo)
 #### · 성능에 대한 이해, 어떻게 개선 가능한지 이해  
 #
 
-## 느낀점
+## 🤦‍♀️ 느낀점
 #### · 리액트를 처음 써봐서 아직 익숙하지가 않다 많이 써보고 익숙해져야겠다
 #### · 실제로 공부해보니 SPA가 뭔지 이해됐다
 #### · 자바스크립트 오브젝트에 대해서 계속 익숙해질것
