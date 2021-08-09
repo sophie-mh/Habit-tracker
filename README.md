@@ -27,12 +27,10 @@
 #
 
 ## 🙋‍♀️ 배운점
-#### · 리액트 기본 개념 이해 (JSX, State, Props, Class Component, Function Component)
-#### · 추가 개념 이해 (Pure Component, LifeCycle, React Hook, memo)
-#### · 성능에 대한 이해, 어떻게 개선 가능한지 이해  
+#### · 리액트 기본 개념 (JSX, State, Props, Class Component, Function Component)
+#### · 추가 개념 (Pure Component, LifeCycle, React Hook, memo)
 #
 
 ## 🤦‍♀️ 느낀점
-#### · 리액트를 처음 써봐서 아직 익숙하지가 않다 많이 써보고 익숙해져야겠다
-#### · 실제로 공부해보니 SPA가 뭔지 이해됐다
-#### · 자바스크립트 오브젝트에 대해서 계속 익숙해질것
+#### · 리액트 익숙해지기 (JS 기본기를 ↑)
+#### · SPA 이해
